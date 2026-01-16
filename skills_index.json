@@ -370,5 +370,47 @@
     "path": "skills/xlsx-official",
     "name": "xlsx",
     "description": "\"Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, .tsv, etc) for: (1) Creating new spreadsheets with formulas and formatting, (2) Reading or analyzing data, (3) Modify existing spreadsheets while preserving formulas, (4) Data analysis and visualization in spreadsheets, or (5) Recalculating formulas\""
+  },
+  {
+    "id": "prompt-library",
+    "path": "skills/prompt-library",
+    "name": "prompt-library",
+    "description": "Curated collection of high-quality prompts for various use cases. Includes role-based prompts, task-specific templates, and prompt refinement techniques. Use when user needs prompt templates, role-play prompts, or ready-to-use prompt examples for coding, writing, analysis, or creative tasks."
+  },
+  {
+    "id": "javascript-mastery",
+    "path": "skills/javascript-mastery",
+    "name": "javascript-mastery",
+    "description": "Comprehensive JavaScript reference covering 33+ essential concepts every developer should know. From fundamentals like primitives and closures to advanced patterns like async/await and functional programming. Use when explaining JS concepts, debugging JavaScript issues, or teaching JavaScript fundamentals."
+  },
+  {
+    "id": "llm-app-patterns",
+    "path": "skills/llm-app-patterns",
+    "name": "llm-app-patterns",
+    "description": "Production-ready patterns for building LLM applications. Covers RAG pipelines, agent architectures, prompt IDEs, and LLMOps monitoring. Use when designing AI applications, implementing RAG, building agents, or setting up LLM observability."
+  },
+  {
+    "id": "workflow-automation",
+    "path": "skills/workflow-automation",
+    "name": "workflow-automation",
+    "description": "Design and implement automated workflows combining visual logic with custom code. Create multi-step automations, integrate APIs, and build AI-native pipelines. Use when designing automation flows, integrating APIs, building event-driven systems, or creating LangChain-style AI workflows."
+  },
+  {
+    "id": "autonomous-agent-patterns",
+    "path": "skills/autonomous-agent-patterns",
+    "name": "autonomous-agent-patterns",
+    "description": "Design patterns for building autonomous coding agents. Covers tool integration, permission systems, browser automation, and human-in-the-loop workflows. Use when building AI agents, designing tool APIs, implementing permission systems, or creating autonomous coding assistants."
+  },
+  {
+    "id": "bun-development",
+    "path": "skills/bun-development",
+    "name": "bun-development",
+    "description": "Modern JavaScript/TypeScript development with Bun runtime. Covers package management, bundling, testing, and migration from Node.js. Use when working with Bun, optimizing JS/TS development speed, or migrating from Node.js to Bun."
+  },
+  {
+    "id": "github-workflow-automation",
+    "path": "skills/github-workflow-automation",
+    "name": "github-workflow-automation",
+    "description": "Automate GitHub workflows with AI assistance. Includes PR reviews, issue triage, CI/CD integration, and Git operations. Use when automating GitHub workflows, setting up PR review automation, creating GitHub Actions, or triaging issues."
   }
 ]
